@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Image Viewer</string>
+
+    //for first activity
+    <string name="label1">Welcome in image viewer</string>
+    <string name="hint1">Enter your email</string>
+    <string name="hint2">Enter your password</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Log in</string>
+    <string name="signup">Sign Up</string>
+    <string name="exit">Exit</string>
+    <string name="alert">Are you sure you want to exit?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="msg1">incorrect email or password</string>
+
+
+    //second activity
+    <string name="back">back</string>
+    <string name="name">Name</string>
+    <string name="repass">Repeate password</string>
+    <string name="hint3">Enter your name</string>
+    <string name="hint4">Reenter your password</string>
+    <string name="msg2">Please fill all field</string>
+    <string name="msg3">invalid email address</string>
+    <string name="msg4">this email address already exists try to sign in</string>
+
+
+    //third activity
+    <string name="next">next</string>
+
+</resources>

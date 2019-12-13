@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">WelcomeForm</string>
+    <string name="hint1">Enter name here</string>
+    <string name="ok">Ok</string>
+    <string name="back">back</string>
+    <string name="exit">exit</string>
+    <string name="msg1">Welcome </string>
+    <string name="msg2">here</string>
+    <string name="label">Welcome </string>
+
+</resources>

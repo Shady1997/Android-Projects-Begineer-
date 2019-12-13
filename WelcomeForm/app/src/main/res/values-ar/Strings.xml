@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">نموذج ترحيبى</string>
+    <string name="hint1">أدخل أسم هنا</string>
+    <string name="ok">موافق</string>
+    <string name="back">رجوغ</string>
+    <string name="exit">أغلاق</string>
+    <string name="msg1">مرحبا بك </string>
+    <string name="msg2">هنا</string>
+    <string name="label">مرحبا بكم </string>
+</resources>

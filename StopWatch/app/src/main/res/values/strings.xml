@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Stop Warch</string>
+    //first activity
+    <string name="Counter">Counter</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="label">Welcome in Stop Watch Timer</string>
+    <string name="resum">Resume</string>
+
+
+
+
+
+</resources>

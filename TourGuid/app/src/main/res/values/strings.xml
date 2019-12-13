@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Tour Guid</string>
+
+    <string-array name="names">
+        <item>"Mosques"</item>
+        <item>"Museum"</item>
+        <item>"Markets"</item>
+        <item>"Parks"</item>
+        <item>"Resturants"</item>
+        <item>"Cafes"</item>
+
+    </string-array>
+
+
+</resources>

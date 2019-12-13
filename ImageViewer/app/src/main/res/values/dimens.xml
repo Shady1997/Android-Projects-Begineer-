@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    //first activity
+    <dimen name="label1">20sp</dimen>
+    <dimen name="hlogin">30sp</dimen>
+
+</resources>

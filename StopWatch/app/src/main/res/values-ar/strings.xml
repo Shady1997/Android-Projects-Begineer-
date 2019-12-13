@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ساعة الايقاف</string>
+    //first activity
+    <string name="Counter">عداد</string>
+    <string name="start">أبدا</string>
+    <string name="stop">توقف</string>
+    <string name="label">مرحبا فى ساعة الايقاف</string>
+    <string name="resum">أستعادة</string>
+
+
+
+
+</resources>

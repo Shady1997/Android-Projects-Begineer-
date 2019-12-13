@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">العداد التنازلى</string>
+    //first activity
+    <string name="Counter">عداد</string>
+    <string name="start">أبدا</string>
+    <string name="stop">توقف</string>
+    <string name="msg">الثوانى المتبقية</string>
+    <string name="label">مرحبا فى العداد التنازلى</string>
+    <string name="msg2">أدخل عدد الثوانى ثم اضغط ابدا</string>
+        <string name="resum">أستعادة</string>
+
+
+
+
+</resources>

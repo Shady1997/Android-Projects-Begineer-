@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ثروتك المستقبلية</string>
+    <string name="username">أسم المستخدم</string>
+    <string name="password">كلمة المرور</string>
+    <string name="login">دخول</string>
+    <string name="error_msg">خطأ فى أسم المستخدم او كلمة المرور</string>
+    <string name="check">أختبر ثروتك الأن</string>
+    <string name="back">رجوع</string>
+    <string name="exit">خروج</string>
+    <string name="msg">نروتك فى المستقبل سوف تكون </string>
+    <string name="msg1">دع نظامنا يتوقع ثروتك فى المستقبل </string>
+
+
+
+    <string name="fname">الأسم الأول</string>
+    <string name="lname">الأسم الأخير</string>
+    <string name="email">الأيميل</string>
+    <string name="pass">كلمة المرور</string>
+    <string name="repass">أعادة كلمة المرور</string>
+
+
+    <string name="hint1">أدخل الأسم الاول</string>
+    <string name="hint2">أدخل الأسم الأخير</string>
+    <string name="hint3">أدخل الأيميل</string>
+    <string name="hint4">أدخل كلمة المرور </string>
+    <string name="hint5">أعادة ادخال كلمة المرور </string>
+
+    <string name="signup">التسجيل</string>
+
+    <string name="headre">مرحبا بك فى ثروتك المستقبلية</string>
+
+
+</resources>

@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Password Generator</string>
+
+
+    //for main activity
+    <string name="label1">Welcome</string>
+    <string name="hint1">Enter your email</string>
+    <string name="hint2">Enter your password</string>
+    <string name="email">Email</string>
+    <string name="pass">Password</string>
+    <string name="login">Log in</string>
+    <string name="signup">Sign Up</string>
+    <string name="exit">Exit</string>
+
+
+    //for second activity
+    <string name="fname">first name</string>
+    <string name="lname">last name</string>
+    <string name="hint3">Enter your first name</string>
+    <string name="hint4">Enter your last name</string>
+    <string name="repass">repeat Password</string>
+    <string name="hint5">Re-enter your password</string>
+    <string name="back">back</string>
+
+
+    //for third activity
+    <string name="lebel2">Welcome in passeord generator</string>
+    <string name="gen">Generate Password</string>
+    <string name="home">Home</string>
+
+    //error msgs
+    <string name="err_msg1">incorrect username or password</string>
+    <string name="err_msg2">please fill all fields</string>
+    <string name="err_msg3">this username already exists</string>
+    <string name="err_msg4">the passwords mismatches</string>
+    <string name="err_msg5">invalid email address try another</string>
+
+
+</resources>

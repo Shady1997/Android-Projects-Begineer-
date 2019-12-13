@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/db"
+        android:title="dashboard"
+        android:icon="@drawable/dashboard"/>
+    <item android:id="@+id/login"
+        android:title="Log in"
+        android:icon="@drawable/dashboard"/>
+    <item android:id="@+id/reg"
+        android:title="Regester"
+        android:icon="@drawable/dashboard"/>
+    <item android:id="@+id/con"
+        android:title="Contact Us"
+        android:icon="@drawable/dashboard"/>
+    <item android:id="@+id/abou"
+        android:title="About Us"
+        android:icon="@drawable/dashboard"/>
+
+</menu>

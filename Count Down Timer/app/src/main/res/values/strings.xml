@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Count Down Timer</string>
+    //first activity
+    <string name="Counter">Counter</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="msg">The Seconds Remain is</string>
+    <string name="label">Welcome in countdown timer</string>
+    <string name="msg2">Enter number of seconds and start timer</string>
+    <string name="resum">Resume</string>
+
+
+
+
+
+</resources>

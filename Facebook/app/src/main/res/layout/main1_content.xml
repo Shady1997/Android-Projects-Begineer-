@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center_horizontal"
+    android:background="@drawable/background"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context=".MainActivity"
+    >
+
+    <ImageView
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:layout_marginTop="50dp"
+        app:srcCompat="@drawable/logo"/>
+
+    <EditText
+        android:id="@+id/username"
+        android:layout_width="269dp"
+        android:layout_height="55dp"
+        android:layout_marginTop="50dp"
+        android:background="#ffffff"
+        android:drawableLeft="@drawable/user"
+        android:editable="false"
+        android:hint="@string/username"
+        android:inputType="text"
+        android:paddingLeft="2dp" />
+
+
+    <EditText
+        android:id="@+id/pass"
+        android:layout_width="269dp"
+        android:layout_height="55dp"
+        android:layout_marginTop="20dp"
+        android:background="#ffffff"
+        android:hint="@string/password"
+        android:drawableLeft="@drawable/password"
+        android:paddingLeft="2dp"
+        android:inputType="textPassword"/>
+
+    <Button
+        android:id="@+id/login"
+        android:layout_width="269dp"
+        android:layout_height="40dp"
+        android:layout_marginTop="20dp"
+        android:background="#ffffff"
+        android:text="@string/log_in"
+        android:paddingLeft="2dp"
+        android:onClick="login"/>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:paddingTop="5dp">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="@string/not_register"
+            android:paddingRight="10dp"
+            android:textColor="#ffffff"
+            />
+        <TextView
+            android:id="@+id/tregister"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="@string/register"
+            android:textStyle="bold"
+            android:paddingRight="10dp"
+            android:textColor="#ffffff"
+            />
+
+
+
+    </LinearLayout>
+
+
+</LinearLayout>

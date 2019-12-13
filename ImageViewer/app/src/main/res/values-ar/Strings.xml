@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">عارض الصور</string>
+
+
+    //for first activity
+    <string name="label1">مرحبا بكم فى عارض الصور</string>
+    <string name="hint1">أدخل الأيميل</string>
+    <string name="hint2">أدخل كلمة المرور</string>
+    <string name="email">الأيميل</string>
+    <string name="password">كلمة المرور</string>
+    <string name="login">تسجيل الدخول</string>
+    <string name="signup">التسحيل</string>
+    <string name="exit">خروج</string>
+    <string name="alert">هل أنت متأكد من رغبتك فى الخروج؟</string>
+    <string name="yes">نعم</string>
+    <string name="no">لا</string>
+    <string name="msg1">خطأ فى الأيميل أو كلمة المرور الخاصة بك</string>
+
+
+
+    //second activity
+    <string name="back">رجوع</string>
+    <string name="name">الأسم</string>
+    <string name="repass">أعد كلمة المرور</string>
+    <string name="hint3">أعد أدخال كلمة المرور</string>
+    <string name="hint4">أدخل الأسم الأول و الأخير</string>
+    <string name="msg2">من فضلك أملا جميع الحقول</string>
+    <string name="msg3">بريد ألكترونى غر صالح</string>
+    <string name="msg4">هذا البريد الالكترونى موجود بالفعل </string>
+
+
+
+
+
+    //third activity
+    <string name="next">التالى</string>
+
+</resources>

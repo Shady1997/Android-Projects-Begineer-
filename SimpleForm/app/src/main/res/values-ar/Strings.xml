@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">مولد كلمات المرور</string>
+
+
+    //for main activity
+    <string name="label1">مرحبا بك</string>
+    <string name="hint1">أدخل الأيميل</string>
+    <string name="hint2">أدخل كلمة المرور</string>
+    <string name="email">الأيميل</string>
+    <string name="pass">كلمة المرور</string>
+    <string name="login">تسجيل الدخول</string>
+    <string name="signup">التسجيل</string>
+    <string name="exit">خروج</string>
+
+
+    //for second activity
+    <string name="fname">الأسم الأول</string>
+    <string name="lname">الأسم الأخير</string>
+    <string name="hint3">أدخل الأسم الأول</string>
+    <string name="hint4">أدخل الأسم الأخير</string>
+    <string name="repass">أعادة كلمة المرور</string>
+    <string name="hint5">أعد أدخال كلمة المرور</string>
+    <string name="back">رجوع</string>
+
+
+    //for third activity
+    <string name="lebel2">مرحبا بك فى مولد كلمات المرور</string>
+    <string name="gen">نوليد كلمة مرور</string>
+    <string name="home">الرئيسية</string>
+
+    //error msgs
+    <string name="err_msg1">خطأ فى أسم المستخدم او كلمة المرور </string>
+    <string name="err_msg2">من فضلك املا جميع الحقول</string>
+
+    <string name="err_msg3">هذا المستخدم موجود بالفعل</string>
+    <string name="err_msg4">كلمات المرور غير متطابقة</string>
+
+    <string name="err_msg5">بريد الكترونى غير صالح</string>
+
+
+</resources>

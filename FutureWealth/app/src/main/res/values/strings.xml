@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Future Wealth</string>
+    <string name="username">user name</string>
+    <string name="password">password</string>
+    <string name="login">log in</string>
+    <string name="error_msg">incorrect user name or password</string>
+    <string name="check">Check your wealth now</string>
+    <string name="back">back</string>
+    <string name="exit">exit</string>
+    <string name="msg">your wealth in future will be  </string>
+    <string name="msg1">let our system expect your future wealth  </string>
+
+
+
+    <string name="fname">first name</string>
+    <string name="lname">last name</string>
+    <string name="email">email</string>
+    <string name="pass">password</string>
+    <string name="repass">reenter password</string>
+
+
+    <string name="hint1">enter first name</string>
+    <string name="hint2">enter second name</string>
+    <string name="hint3">enter email</string>
+    <string name="hint4">enter password</string>
+    <string name="hint5">reenter password</string>
+
+    <string name="signup">Sign up</string>
+
+    <string name="headre">Welcome in Future Wealth</string>
+
+
+</resources>
